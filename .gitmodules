@@ -1,0 +1,3 @@
+[submodule "LUFA"]
+	path = LUFA
+	url = git@github.com:abcminiuser/lufa.git
